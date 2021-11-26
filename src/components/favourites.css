@@ -1,0 +1,18 @@
+
+.img{
+    width:80% !important
+}
+.scroll{
+    overflow-x: auto;
+  overflow-y:none;
+  white-space: nowrap;
+}
+.scrolling{
+    display:inline-block;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+.redbutton{
+    margin:0.5% 0%;
+}

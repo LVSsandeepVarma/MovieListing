@@ -1,0 +1,10 @@
+h2{
+    font-size: clamp(1rem, 4.5vw, 2rem);
+}
+.search{
+    margin: none !important;
+    width:clamp(50px,80%,75%)
+}
+.bg-dark{
+    --bs-bg-opacity: 0.8;
+}

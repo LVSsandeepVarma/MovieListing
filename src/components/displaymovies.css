@@ -1,0 +1,33 @@
+.MoviesList{
+    margin:2% 2%;
+    border: 1px solid #252627;
+    background:#cbcccd;
+    /* height:100vh; */
+    background-repeat: repeat-y;
+}
+h3 {
+    font-size:clamp(10px,85%,75%);
+}
+
+p {
+    font-size:clamp(8px,80%,75%);
+}
+
+img{
+    width:80%;
+    height:38vh
+    /* width: clamp(2vw,4vw,5vw);
+    height:clamp(4vh,10vh,15vh) */
+}
+.Row{
+    /* align-items:end; */
+    max-height: 30%;
+    padding-left: 5%;
+}
+.BOX{
+    padding:1%;
+    display: grid;
+}
+.button{
+    align-items: flex-end !important;
+}
